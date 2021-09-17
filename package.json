@@ -1,0 +1,25 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studienprojekt-sdp/weather_microservice-2.git"
+  },
+  "author": "tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studienprojekt-sdp/weather_microservice-2/issues"
+  },
+  "homepage": "https://github.com/studienprojekt-sdp/weather_microservice-2#readme"
+}
