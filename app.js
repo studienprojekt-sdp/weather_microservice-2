@@ -1,7 +1,7 @@
 const axios = require("axios");
 const city = process.argv[2];
 const url  = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=2e15c965ff28cc6a856c04b3489f9d68`;
-//
+
 axios
   .get(url)
   .then(response => {
