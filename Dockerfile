@@ -1,6 +1,6 @@
 FROM node:latest
 
-WORKDIR /scr
+WORKDIR /src
 
 ADD package.json package-lock.json ./
 
